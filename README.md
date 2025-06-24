@@ -2,7 +2,7 @@
 
 Not much professional Dev and sysadmin.
 
-I'm listening to:
+I'm listening to/last played:
 
 <a href="https://last.fm/user/the27colu">
 <img src="https://lastfm-profile-readme.vercel.app/api/the27colu?color=000000&textColor=D8D8D8&isRounded=true" height="150px"></a>
