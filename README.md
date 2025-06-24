@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Not much professional Dev and sysadmin.
+
+I'm listening to:
+
+<a href="https://last.fm/user/the27colu">
+<img src="https://lastfm-profile-readme.vercel.app/api/the27colu?color=000000&textColor=D8D8D8&isRounded=true" height="150px"></a>
+
 <!--
 **27Colu/27Colu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
